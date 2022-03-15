@@ -1,0 +1,1 @@
+{"uuid":"b708b646-d2cf-4189-8dbd-f6475bcdb26c","name":"com.marcopolo.api.test.PetTests","children":["fb672b5b-b466-4978-9563-1bd1ea0c78ec"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1647376851192,"stop":1647376851210}],"afters":[],"links":[],"start":1647376851151,"stop":1647376856432}
