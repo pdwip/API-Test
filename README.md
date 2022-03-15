@@ -11,7 +11,7 @@ To solve the particular problem has created a prototype of a API test framework.
 
 Test execution:
 The tests can be easily executed by below ways:
--> using maven command from the command line. Command: mvn clean install.
--> using testNG xml. Command: mvn clean test -DsuiteXmlFile=testng.xml.
+1. using maven command from the command line. Command: mvn clean install.
+2. using testNG xml. Command: mvn clean test -DsuiteXmlFile=testng.xml.
    UI: by right click and run the testng.xml
--> Using Ide testNG the test class can be run from the editor.
+3. Using Ide testNG the test class can be run from the editor.
